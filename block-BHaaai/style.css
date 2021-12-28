@@ -1,0 +1,20 @@
+
+body{
+    background-color:#22396A;
+}
+.center-div {
+    text-align: center;
+}
+
+h2{
+    color: green;
+}
+
+.bg-clr{
+    background-color: #11244D;
+}
+
+a{
+    color: red;
+    margin-right: 16px;
+}
